@@ -25,3 +25,13 @@ Google Cloud Platform (GCP) is widely recognized as the leader in Artificial Int
 
 ### 4. Which cloud platform would you personally choose and why?
 I would personally choose **Google Cloud Platform (GCP)** due to its modern, developer-friendly design and unmatched capabilities in container management and data analytics. Its global private network infrastructure offers excellent low-latency performance and simplified global networking compared to traditional subnet structures. Additionally, GCP's native focus on Kubernetes and AI tools makes it the most future-ready environment for modern cloud-native development.
+
+## Checkpoint 5 – Service Comparison Matrix
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID (formerly Azure AD) | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
