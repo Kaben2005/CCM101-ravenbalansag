@@ -61,3 +61,14 @@ Amazon Web Services (AWS) is the global gold standard for high-availability, mul
 1. **Amazon EC2 Auto Scaling:** Automatically increases or decreases the number of EC2 instances based on real-time traffic demand.
 2. **Amazon CloudFront:** A global Content Delivery Network (CDN) that delivers low-latency content, media, and APIs securely to global buyers.
 3. **Amazon Aurora:** A high-performance managed relational database with automatic cross-region replication and multi-AZ fault tolerance for processing transactional store data.
+
+## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+| :--- | :--- | :--- |
+| **Startup Company** | **AWS** | Offers extensive startup support programs (such as AWS Activate credits), rapid scalability, and a serverless-first ecosystem that minimizes early operational costs. |
+| **Enterprise Organization** | **AWS** | Provides the most mature global infrastructure, the largest selection of cloud services (200+), and deep enterprise migration tooling. |
+| **Microsoft Environment** | **Azure** | Delivers native, seamless integration with existing Active Directory, SQL Server, Windows Server, and Microsoft 365 environments with cost-effective hybrid licensing options. |
+| **AI / Machine Learning** | **GCP** | Features industry-leading AI infrastructure powered by Google Cloud TPUs, Vertex AI, and deep native integration with big data analytics pipelines like BigQuery. |
+| **Kubernetes Deployment** | **GCP** | Provides Google Kubernetes Engine (GKE), the most advanced, reliable, and natively integrated managed Kubernetes platform built by the creators of Kubernetes. |
+| **Global Web Application** | **AWS** | Utilizes multi-region deployment capabilities, Amazon EC2 Auto Scaling, and the Amazon CloudFront CDN to deliver ultra-low latency and fault-tolerant global traffic routing. |
